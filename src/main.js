@@ -20,8 +20,7 @@ app.config.errorHandler = (err) => {
 // Here the #app selector is automatically set to be from index.html when creating the project with npm
 app.mount('#app')
 
-Multiple application instances
-​
+// Multiple application instances
 
 // You are not limited to a single application instance on the same page. 
 // The createApp API allows multiple Vue applications to co-exist on the same page, 
